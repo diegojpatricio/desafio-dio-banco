@@ -1,7 +1,7 @@
 # PIG BANK
 
 ## Descrição:
-  A presente apicação foi desenvolvida como desafio da DIO.
+  A presente aplicação foi desenvolvida como desafio da DIO.
   Refere-se a um sistema de uma instituição bancária para gerenciar suas contas, clientes e transações.</center>
 
 ### Tecnologias
